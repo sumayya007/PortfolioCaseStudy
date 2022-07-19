@@ -1,0 +1,29 @@
+#testimonysection{
+    position:relative;
+    width: 100%;
+    min-height: 100vh;
+    background-color:#6f42c1;
+    text-align: center;
+  display: flex;
+  justify-content: center;
+   align-items: center;
+}
+.container{
+    display: flex;
+  justify-content: center;
+   align-items: center;
+} 
+#carouselExampleControls{
+border-top:1px solid black;
+border-bottom: 1px solid black;
+width:80%;
+height: auto;
+/* margin-left:250px;*/
+
+font-size: 24px;
+font-style: italic;
+padding: 60px 30px 80px 30px;
+}
+h3{
+    color:whitesmoke;
+}

@@ -1,0 +1,19 @@
+#footer{
+   
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:black;
+    z-index: 999!important;
+    color:aquamarine;
+ 
+    text-align: center;
+    font-size: 14px;
+    height: 90px;
+    
+}
+.bx{
+    font-size: 24px;
+    color: #6f42c1;
+}

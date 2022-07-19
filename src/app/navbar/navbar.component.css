@@ -1,0 +1,16 @@
+.navbar{
+   
+
+color: black;
+display: flex;
+font-weight: 00;
+justify-content: space-between;
+align-items: center;
+
+}
+.navbar-nav .nav-item a{
+    color:black;
+}
+.navbar-nav .nav-item a:hover{
+    color:aqua;
+}
